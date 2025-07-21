@@ -139,7 +139,7 @@ NH28 GALAXY is the first ecosystem ever in the world physically materializing Ba
 ### **Mission: Linguistic Diversity**
 NH28 GALAXY is deployed **free of charge** to:
 
-- 🇫🇷 **Regional languages** (Breton, Occitan, Corsican)
+- 🇫🇷 **Regional languages** (Corse, Breton, Occitan, Corsican)
 - 🌍 **Indigenous communities** worldwide
 - 🏫 **Educational institutions** in developing nations
 - 🤝 **NGO partnerships** for cultural preservation
